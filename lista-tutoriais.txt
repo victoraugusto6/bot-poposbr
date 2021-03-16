@@ -1,0 +1,32 @@
+- Resolvendo o problema de Dualboot no PoP!_OS
+https://telegra.ph/Resolvendo-o-problema-de-Dualboot-no-PoP-OS-05-05
+
+- Comandos de limpeza no linux
+https://telegra.ph/Comandos-de-limpeza-no-linux-11-24
+
+- Instalando extensões do Gnome
+https://telegra.ph/Instalando-extens%C3%B5es-do-Gnome-05-06
+
+- Instalando codecs no PoP!_OS
+https://telegra.ph/Instalando-codecs-no-PoP-OS-05-06
+
+- Formatar pen-drives via Gparted
+https://telegra.ph/Formatar-pen-drives-via-Gparted-05-06
+
+- Instalando o navegador Brave no PoP!_OS
+https://telegra.ph/Instalando-o-navegador-Brave-no-PoP-OS-05-06
+
+- Minimizar e Maximizar
+https://telegra.ph/Minimizar-e-Maximizar-05-05
+
+- Criar imagem de Linux por comandos
+https://telegra.ph/Criar-imagem-de-Linux-por-comandos-02-08
+
+- Customizando o gnome no Pop_OS 20.04!
+https://telegra.ph/Customizando-o-gnome-no-Pop-OS-2004-05-22
+
+- Instalando e personalizando o REFInd
+https://telegra.ph/Instalando-e-personalizando-o-REFInd-05-22
+
+- Como instalar fontes TrueType da Microsoft em distribuições baseadas no Ubuntu
+https://itsfoss.com/install-microsoft-fonts-ubuntu/
