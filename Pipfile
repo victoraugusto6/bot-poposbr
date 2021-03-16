@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 flake8 = "*"
+python-decouple = "*"
+python-telegram-bot = "*"
 
 [dev-packages]
 
