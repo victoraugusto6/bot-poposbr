@@ -30,3 +30,6 @@ https://telegra.ph/Instalando-e-personalizando-o-REFInd-05-22
 
 - Como instalar fontes TrueType da Microsoft em distribuições baseadas no Ubuntu
 https://itsfoss.com/install-microsoft-fonts-ubuntu/
+
+- Instalar pacote de softwares essenciais para o Ubuntu
+https://telegra.ph/Instalar-pacote-de-softwares-essenciais-para-o-Ubuntu-03-19
