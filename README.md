@@ -1,7 +1,7 @@
 ## Bot para Telegram usando Python + Heroku - Pop!_OS Brasil
 
-[![Python 3](https://pyup.io/repos/github/victoraugusto6/poposbr-bot/python-3-shield.svg)](https://pyup.io/repos/github/victoraugusto6/poposbr-bot/)
-[![Updates](https://pyup.io/repos/github/victoraugusto6/poposbr-bot/shield.svg)](https://pyup.io/repos/github/victoraugusto6/poposbr-bot/)
+[![Python 3](https://pyup.io/repos/github/victoraugusto6/bot-poposbr/python-3-shield.svg)](https://pyup.io/repos/github/victoraugusto6/bot-poposbr/)
+[![Updates](https://pyup.io/repos/github/victoraugusto6/bot-poposbr/shield.svg)](https://pyup.io/repos/github/victoraugusto6/bot-poposbr/)
 
 Este reposítório foi criado com a finalidade de demonstrar um bot para Telegram usando Python e hospedado na plataforma
 Heroku para auxiliar o grupo:
