@@ -33,3 +33,6 @@ https://itsfoss.com/install-microsoft-fonts-ubuntu/
 
 - Instalar pacote de softwares essenciais para o Ubuntu
 https://telegra.ph/Instalar-pacote-de-softwares-essenciais-para-o-Ubuntu-03-19
+
+- Reparar o Bootloader - Pop!_OS
+https://support.system76.com/articles/bootloader/
