@@ -39,3 +39,6 @@ https://telegra.ph/Instalar-pacote-de-softwares-essenciais-para-o-Ubuntu-03-19
 
 - Reparar o Bootloader - Pop!_OS
 https://support.system76.com/articles/bootloader/
+
+- Ajuste do delay ao aumentar e diminuir o volume pelas teclas de atalho
+https://telegra.ph/Ajuste-do-delay-ao-aumentar-e-diminuir-o-volume-pelas-teclas-de-atalho-04-26
