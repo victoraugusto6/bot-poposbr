@@ -12,7 +12,7 @@ def tutoriais(update, context):
     message += '<strong>Segue a lista de tutoriais:</strong>\n\n'
 
     # Lendo arquivo
-    with open('lista-tutoriais.txt', 'r') as file:
+    with open('bot/lista-tutoriais.txt', 'r') as file:
         message += file.read()
 
     context.bot.send_message(
