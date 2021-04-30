@@ -43,10 +43,10 @@ def main():
 
         updater.idle()
     else:
-        port = int(config('PORT'))
+        port = config('PORT', cast=int)
 
         updater.start_webhook(listen="0.0.0.0",
-                              port=int(port),
+                              port=port,
                               url_path=TELEGRAM_TOKEN)
         updater.bot.setWebhook(f'https://{APP_NAME_HEROKU}.herokuapp.com/{TELEGRAM_TOKEN}')
 
