@@ -3,7 +3,7 @@ from decouple import config
 from telegram.ext import CommandHandler, Updater
 
 TELEGRAM_TOKEN = config('TELEGRAM_TOKEN')
-DEBUG = config('DEBUG')
+DEBUG = config('DEBUG', cast=bool)
 APP_NAME_HEROKU = config('APP_NAME_HEROKU')
 
 
