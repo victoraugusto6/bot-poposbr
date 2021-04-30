@@ -3,7 +3,7 @@ from decouple import config
 from telegram.ext import CommandHandler, Updater
 
 TELEGRAM_TOKEN = config('TELEGRAM_TOKEN')
-DEBUG = config('DEBUG')
+DEBUG = config('DEBUG', cast=bool)
 APP_NAME_HEROKU = config('APP_NAME_HEROKU')
 
 
@@ -43,11 +43,10 @@ def main():
 
         updater.idle()
     else:
-        import os
-        PORT = int(os.environ.get('PORT', 5000))
+        port = int(config('PORT'))
 
         updater.start_webhook(listen="0.0.0.0",
-                              port=int(PORT),
+                              port=int(port),
                               url_path=TELEGRAM_TOKEN)
         updater.bot.setWebhook(f'https://{APP_NAME_HEROKU}.herokuapp.com/{TELEGRAM_TOKEN}')
 
