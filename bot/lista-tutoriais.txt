@@ -42,3 +42,6 @@ https://support.system76.com/articles/bootloader/
 
 - Ajuste do delay ao aumentar e diminuir o volume pelas teclas de atalho
 https://telegra.ph/Ajuste-do-delay-ao-aumentar-e-diminuir-o-volume-pelas-teclas-de-atalho-04-26
+
+- Senhas de criptografia de disco completo
+https://support.system76.com/articles/advanced-luks/
