@@ -71,11 +71,10 @@
         },
         "python-telegram-bot": {
             "hashes": [
-                "sha256:467b0f149bf4d0b9b638530c9a887dd0d6e64da1d5603cfe6eee839671ca1496",
-                "sha256:4c1fdc3dab192bf1f754ccd0692511976b38e2c6ad75010e30844a19c0193c90"
+                "sha256:37cfe8faba16fb68a8b5ab41a10e787c385f6296200c84256cc54d7c16334643",
+                "sha256:d4b3a8fd6a927bc6dc498fa00e8d6388570d089f5c015418c3b2b954e0719a7a"
             ],
-            "index": "pypi",
-            "version": "==13.4.1"
+            "version": "==13.6"
         },
         "pytz": {
             "hashes": [
