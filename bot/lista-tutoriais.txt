@@ -45,3 +45,6 @@ https://telegra.ph/Ajuste-do-delay-ao-aumentar-e-diminuir-o-volume-pelas-teclas-
 
 - Senhas de criptografia de disco completo
 https://support.system76.com/articles/advanced-luks/
+
+- Instalação de ZSH no Linux
+https://youtu.be/B7b770VgCs0
