@@ -7,6 +7,11 @@ DEBUG = config('DEBUG')
 APP_NAME_HEROKU = config('APP_NAME_HEROKU')
 
 
+def send(msg, chat_id):
+    bot = telegram.Bot(token=TELEGRAM_TOKEN)
+    bot.send_message(chat_id=chat_id, text=msg)
+
+
 def tutoriais(update, context):
     message = f'Olá, {update.message.from_user.first_name}! 😎\n'
     message += '<strong>Segue a lista de tutoriais:</strong>\n\n'
