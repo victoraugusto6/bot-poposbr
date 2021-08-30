@@ -48,3 +48,6 @@ https://support.system76.com/articles/advanced-luks/
 
 - Instalação de ZSH no Linux
 https://youtu.be/B7b770VgCs0
+
+- Instalação de outros ambientes gráficos (Desktop Environment)
+https://support.system76.com/articles/desktop-environment
