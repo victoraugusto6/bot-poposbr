@@ -1,5 +1,5 @@
 - Dual Boot entre Windows e Pop!_OS
-https://youtu.be/osYO3x325Ro
+https://youtu.be/zUhsDv-KQXs
 
 - Configurando os-prober/Dualboot no PoP!_OS
 https://telegra.ph/Resolvendo-o-problema-de-Dualboot-no-PoP-OS-05-05
@@ -8,7 +8,7 @@ https://telegra.ph/Resolvendo-o-problema-de-Dualboot-no-PoP-OS-05-05
 https://telegra.ph/Comandos-de-limpeza-no-linux-11-24
 
 - Instalando extensões do Gnome
-https://telegra.ph/Instalando-extens%C3%B5es-do-Gnome-05-06
+https://youtu.be/CZOl8WsvyEM
 
 - Instalando codecs no PoP!_OS
 https://telegra.ph/Instalando-codecs-no-PoP-OS-05-06
@@ -47,7 +47,7 @@ https://telegra.ph/Ajuste-do-delay-ao-aumentar-e-diminuir-o-volume-pelas-teclas-
 https://support.system76.com/articles/advanced-luks/
 
 - Instalação de ZSH no Linux
-https://youtu.be/B7b770VgCs0
+https://youtu.be/9dlm_W1u3Gw
 
 - Instalação de outros ambientes gráficos (Desktop Environment)
 https://support.system76.com/articles/desktop-environment
