@@ -5,7 +5,6 @@ from decouple import config
 from telegram.ext import CommandHandler, Updater
 
 TELEGRAM_TOKEN = config('TELEGRAM_TOKEN')
-DEBUG = config('DEBUG')
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
