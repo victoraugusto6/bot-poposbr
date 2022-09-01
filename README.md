@@ -6,6 +6,16 @@ Este reposítório foi criado com a finalidade de demonstrar um bot para Telegra
 
 <img style="display: block; margin-left: auto; margin-right: auto;" src="https://avatars.githubusercontent.com/u/33131755?s=400&v=4" alt="" width="164" height="164" />
 
+Rodar usando **Docker**:
+
+```dockerfile
+docker build -t "app:Dockerfile" .
+```
+
+```dockerfile
+docker run -d --restart unless-stopped -e TELEGRAM_TOKEN=<TOKEN_KEY> <image_docker_id>
+```
+
 - Bot para Telegram
 
 <table style="height: 214px; width: 100%; border-collapse: collapse; margin-left: auto; margin-right: auto;" border="0">
