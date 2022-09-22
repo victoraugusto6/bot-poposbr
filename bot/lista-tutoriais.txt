@@ -51,3 +51,6 @@ https://youtu.be/9dlm_W1u3Gw
 
 - Instalação de outros ambientes gráficos (Desktop Environment)
 https://support.system76.com/articles/desktop-environment
+
+- Enable Hibernation (Suspend to Disk)
+https://support.system76.com/articles/enable-hibernation/
