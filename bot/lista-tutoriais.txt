@@ -54,3 +54,6 @@ https://support.system76.com/articles/desktop-environment
 
 - Enable Hibernation (Suspend to Disk)
 https://support.system76.com/articles/enable-hibernation/
+
+- How to Install Realtek Wifi Drivers in Ubuntu 22.04 | Linux Mint 21/20
+https://fostips.com/realtek-wifi-drivers-ubuntu-linux-mint/
