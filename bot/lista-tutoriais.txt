@@ -2,7 +2,7 @@
 https://youtu.be/zUhsDv-KQXs
 
 - Configurando os-prober/Dualboot no PoP!_OS
-https://telegra.ph/Resolvendo-o-problema-de-Dualboot-no-PoP-OS-05-05
+https://github.com/spxak1/weywot/blob/main/Pop_OS_Dual_Boot.md
 
 - Comandos de limpeza no linux
 https://telegra.ph/Comandos-de-limpeza-no-linux-11-24
