@@ -14,7 +14,7 @@ cachetools==4.2.2
     # via
     #   -r requirements.txt
     #   python-telegram-bot
-certifi==2022.6.15
+certifi==2022.12.7
     # via
     #   -r requirements.txt
     #   python-telegram-bot
